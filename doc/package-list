@@ -1,0 +1,6 @@
+com.wissen.invoice.client
+com.wissen.invoice.client.controller
+com.wissen.invoice.client.observers
+com.wissen.invoice.client.services
+com.wissen.invoice.client.widgets
+com.wissen.invoice.server.impl
