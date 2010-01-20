@@ -1,0 +1,2 @@
+Hello friends,
+               In this project I used itext which is used to generate pdf & it is open source.To generate invoice of customer some contents remain same only customer & item details are changed.So by fetching records from database just attach records to particular location.Format of invoice receipt not change.I hope this project useful to understand some basic concepts of itext & if you have any query submit it on emailid patilsonal516@gmail.com.
